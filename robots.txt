@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maxbit-ui-black-white-ci.vercel.app/sitemap.xml
